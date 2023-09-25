@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-weight: 200;
+    background: #1E1E1E;
+    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+img {
+    padding-top: 80px;
+    width: 100%;
+    width: 800px;
+}
+
+p {
+    padding-top: 50px;
+    font-size: 40px;
+    color: ghostwhite;
+    font-weight: bold;
+}
+
+button {
+    font-family: 'Dela Gothic One', cursive;
+    margin-top: 30px;
+    background-color: green;
+    font-size: 20px;
+    border-radius: 10px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    cursor: pointer;
+}
